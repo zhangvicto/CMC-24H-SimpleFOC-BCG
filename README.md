@@ -1,4 +1,5 @@
 <img src="/img/intro.jfif" alt="drawing" width="300"/>
+
 ## Intro
 Controlling cheap brushless DC motors (Nidec CMC_24H) with integrated encoder using a BGC 3.2 (brushless gimbal controller) and SimpleFOC.
 
